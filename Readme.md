@@ -49,7 +49,7 @@ src/
 1. Clone the repository:
 
 ```id="9dr2c4"
-git clone https://github.com/your-username/brewstack.git
+git clone https://github.com/student-Harshmer/Brewstack.git
 ```
 
 2. Install dependencies:
@@ -121,8 +121,8 @@ Pull requests are welcome! Feel free to contribute.
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/student-Harshmer
+- LinkedIn: https://linkedin.com/in/harsh-mer
 
 ---
 
