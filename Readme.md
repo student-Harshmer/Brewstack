@@ -121,7 +121,7 @@ Pull requests are welcome! Feel free to contribute.
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/student-Harshmer
+- GitHub: https://github.com/harshmer-dev
 - LinkedIn: https://linkedin.com/in/harsh-mer
 
 ---
