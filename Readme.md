@@ -1,6 +1,6 @@
-# ☕ BrewStack – Scalable Backend API with Authentication & Media Handling
+# ☕ Brewstack – Scalable Backend API with Authentication & Media Handling
 
-**BrewStack** is a production-ready backend system built using **Node.js, Express, and MongoDB**, focused on scalability, clean architecture, and secure API design.
+**Brewstack** is a production-ready backend system built using **Node.js, Express, and MongoDB**, focused on scalability, clean architecture, and secure API design.
 
 ---
 
@@ -123,9 +123,10 @@ Pull requests are welcome! Feel free to contribute.
 
 - GitHub: https://github.com/harshmer-dev
 - LinkedIn: https://linkedin.com/in/harsh-mer
+- NPM: https://www.npmjs.com/~harshmer
 
 ---
 
 ## ⭐ Support
 
-If you like BrewStack, give it a ⭐ on GitHub!
+If you like Brewstack, give it a ⭐ on GitHub!
