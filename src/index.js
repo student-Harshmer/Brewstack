@@ -11,11 +11,7 @@ const port = process.env.PORT || 5000;
 connectDB()
     .then(() => {
         app.listen(port, () => {
-            console.log("Server is serving on port", port);
-        })
-
-        app.get("/", (req, res) => {
-            res.json({id: 1})
+            console.log("⚙️ Server is serving on port", port);
         })
     })
     .catch((err) => {
